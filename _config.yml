@@ -3,10 +3,10 @@ markdown : kramdown
 gems:
   - jekyll-sitemap
    github: [metadata]
- kramdown:
+   kramdown:
    input: GFM
    hard_wrap: false
- gems:
+   gems:
    - jekyll-coffeescript
    - jekyll-paginate
   
