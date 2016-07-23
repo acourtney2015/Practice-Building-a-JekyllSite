@@ -4,7 +4,6 @@ destination: _deploy
 markdown : kramdown
 gems:
   - jekyll-sitemap
-   kramdown:
    input: GFM
    hard_wrap: false
    gems:
