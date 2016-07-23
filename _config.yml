@@ -4,9 +4,5 @@ destination: _deploy
 markdown : kramdown
 gems:
   - jekyll-sitemap
-   input: GFM
-   hard_wrap: false
-   gems:
-   - jekyll-coffeescript
-   - jekyll-paginate
+  
   
