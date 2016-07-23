@@ -1,8 +1,9 @@
 name: new site
+source:      _source
+destination: _deploy
 markdown : kramdown
 gems:
   - jekyll-sitemap
-   github: [metadata]
    kramdown:
    input: GFM
    hard_wrap: false
